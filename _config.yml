@@ -3,10 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Morgan S Ellis
+title:            Jack H Peedle
 tagline:          'Portfolio'
 description:      'Portfolio of projects<br>and assignments.'
-url:              https://morgansellis.github.io
+url:              https://JackHPeedle.github.io
 baseurl:
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -15,8 +15,8 @@ baseurl:
                   # sidebar_blog_link below.
 
 author:
-  name:           'Jamie Stewart'
-  url:            https://twitter.com/tshirtwearindrk
+  name:           
+  url:            
 
 paginate:         5
 # paginate_path:    '/page:num'
@@ -34,11 +34,11 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 github:
-  repo:             https://github.com/morgansellis
+  repo:           https://github.com/Peedeedle
 twitter:
-  url:            https://twitter.com/msellis1703
+  url:            
 linkedin:
-  url:            https://www.linkedin.com/in/morgan-ellis-1a31a3196/
+  url:            
 
 disqus:
-  shortname: morgansellis.github.io
+  shortname: JackHPeedle.github.io
